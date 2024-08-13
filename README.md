@@ -5,7 +5,7 @@
 - 42 Porto Student
 - Very curious and eager to learn.
 - Learning game development on my own
-- Personal website 
+- Newbie at website development
 
 
 
