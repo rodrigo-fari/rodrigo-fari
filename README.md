@@ -1,7 +1,8 @@
 
-# Hey, I'm Rodrigo! 👋🏼
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Segoe+UI&size=19&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=++Hi+there!+I'm+Rodrigo,+a+student+at+42+Porto+%F0%9F%9A%80;Code%2C+coffee%2C+and+a+little+bit+of+chaos+%E2%98%95%F0%9F%92%BB;++Learning+by+doing%2C+breaking+stuff+along+the+way+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Creativity+%2B+logic+%3D+my+kind+of+magic+%E2%9C%A8;Currently+lost+in+a+C+project...+send+help+%F0%9F%98%85;I+turn+coffee+into+segfaults+(sometimes)+%F0%9F%A4%AF;Trying+to+make+sense+of+malloc+and+life+%F0%9F%A7%A0;Always+debugging...+even+my+thoughts+%F0%9F%90%9E;Let's+build+cool+stuff+together!+%F0%9F%94%A7)](https://git.io/typing-svg)
 
-[<img src="https://img.shields.io/static/v1?label=Overview&message=RODRIGO&color=4fa69a&style=for-the-badge&logo=GitHub" alt="GitHub Overview"/>](https://github.com/rodrigo-fari/)
+
+[<img src="https://img.shields.io/static/v1?label=Overview&message=RODRIGO-FARI&color=4fa69a&style=for-the-badge&logo=GitHub" alt="GitHub Overview"/>](https://github.com/rodrigo-fari/)
 <br>
 <img src="https://komarev.com/ghpvc/?username=rodrigo-fari&color=4fa69a&style=flat-square"/>
 
