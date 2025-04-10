@@ -8,8 +8,6 @@
 <img src="https://komarev.com/ghpvc/?username=rodrigo-fari&color=4fa69a&style=flat-square"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=rodrigo-fari&show_icons=true&title_color=4fa69a&text_color=4fa69a&icon_color=4fa69a&bg_color=212830&cache_seconds=2300" alt="GitHub Stats"/>
-<br>
-<br>
 
 I'm a passionate developer and student at <a href="https://42porto.com" target="_blank">42 Porto</a>, constantly exploring the world of low-level programming, systems engineering, and creative problem-solving.  
 I like building efficient solutions, learning new technologies, and working on personal projects that challenge the way I think.
