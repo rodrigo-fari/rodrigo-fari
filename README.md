@@ -29,8 +29,6 @@ I like building efficient solutions, learning new technologies, and working on p
 ### 📌 Featured Projects
 
 🔹 <a href="https://github.com/rodrigo-fari/minishell" target="_blank">Minishell</a> — A small shell written in C (42 project)  
-🔹 <a href="https://github.com/rodrigo-fari/push_swap" target="_blank">Push Swap</a> — Sorting algorithm project using stacks and limited operations  
-🔹 <a href="https://github.com/rodrigo-fari/libft" target="_blank">Libft</a> — A custom C standard library, part of the 42 core curriculum  
 
 ---
 
@@ -42,13 +40,9 @@ I like building efficient solutions, learning new technologies, and working on p
 
 ### 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/seu-usuario/">
+<a href="hwww.linkedin.com/in/rodrigo-fari">
   <img src="https://img.shields.io/badge/-LinkedIn-212830?style=flat&logo=linkedin&logoColor=4fa69a"/>
 </a>
-<a href="https://profile.intra.42.fr/users/seu-usuario">
-  <img src="https://img.shields.io/badge/-42%20Profile-212830?style=flat&logo=42&logoColor=4fa69a"/>
-</a>
-
 
 Thanks for stopping by! 🚀
 [![LastLine](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)]()
