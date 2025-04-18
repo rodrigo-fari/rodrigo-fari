@@ -40,7 +40,7 @@ I like building efficient solutions, learning new technologies, and working on p
 
 ### 📫 Let's Connect
 
-<a href="hwww.linkedin.com/in/rodrigo-fari">
+<a href="www.linkedin.com/in/rodrigo-fari">
   <img src="https://img.shields.io/badge/-LinkedIn-212830?style=flat&logo=linkedin&logoColor=4fa69a"/>
 </a>
 
