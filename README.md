@@ -28,7 +28,7 @@ I like building efficient solutions, learning new technologies, and working on p
 
 ### 📌 Featured Projects
 
-🔹 <a href="https://github.com/rodrigo-fari/minishell" target="_blank">Minishell</a> — A small shell written in C (42 project)  
+🔹 <a href="https://github.com/rodrigo-fari/minishell" target="_blank">Minishell</a> — A small shell written in C.  
 
 ---
 
