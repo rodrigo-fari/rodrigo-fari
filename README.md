@@ -40,9 +40,8 @@ I like building efficient solutions, learning new technologies, and working on p
 
 ### 📫 Let's Connect
 
-<a href="https://www.linkedin.com/in/rodrigo-fari">
-  <img src="https://img.shields.io/badge/-LinkedIn-212830?style=flat&logo=linkedin&logoColor=4fa69a"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-fari)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rxd081/)
 
 Thanks for stopping by! 🚀
 [![LastLine](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)]()
