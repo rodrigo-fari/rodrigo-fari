@@ -15,7 +15,7 @@ I like building efficient solutions, learning new technologies, and working on p
 ---
 
 ### 🧰 Tech Stack
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,javascript,python,html,css,git,linux,vim&perline=10)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,javascript,python,html,css,git,linux,vim,bash&perline=10)
 
 ---
 
