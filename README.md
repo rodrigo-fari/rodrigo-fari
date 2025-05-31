@@ -1,5 +1,3 @@
-
-
 [![LastLine](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)]()
 
 <p align="center">
@@ -13,8 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=rodrigo-fari&color=4fa69a&style=flat-square" width="169px"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigo-fari&show_icons=true&title_color=4fa69a&text_color=4fa69a&icon_color=4fa69a&bg_color=212830" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-fari&layout=compact&title_color=4fa69a&text_color=4fa69a&bg_color=212830" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigo-fari&show_icons=true&title_color=4fa69a&text_color=4fa69a&icon_color=4fa69a&bg_color=212830" width="450px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo-fari&layout=compact&title_color=4fa69a&text_color=4fa69a&bg_color=212830" width="344px" />
 </p>
 
 
