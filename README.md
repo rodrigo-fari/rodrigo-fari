@@ -66,5 +66,11 @@ I like building efficient solutions, learning new technologies, and working on p
   <a href="https://www.instagram.com/rxd081/" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+  <br>
+  <br>
+  <br>
+  <p>Readme under development.</p>
+  <p>Coming soon:</p>
+  <p>main projects, overview, and much more. (not that much \o/)</p>
 </div>
 <br>
