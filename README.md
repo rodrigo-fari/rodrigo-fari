@@ -1,7 +1,7 @@
 [![LastLine](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)]()
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=4FA69A&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rodrigo+😄🚀;Code,+coffee+and+a+little+bit+of+chaos+☕💻;Learning+by+doing,+breaking+stuff+along+the+way+👨‍💻;Creativity+%2B+logic+=+my+kind+of+magic+✨;Currently+lost+in+a+C+project...+send+help+😅;I+turn+coffee+into+segfaults+(sometimes)+🤯;Trying+to+make+sense+of+malloc+and+life+🧠;Always+debugging...+even+my+thoughts+🐞;Let's+build+cool+stuff+together!+🔧" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=4FA69A&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Rodrigo+👋🏼;Code,+coffee+and+a+little+bit+of+chaos+☕💻;Learning+by+doing,+breaking+stuff+along+the+way+👨‍💻;Creativity+%2B+logic+=+my+kind+of+magic+✨;Currently+lost+in+a+C+project...+send+help+😅;I+turn+coffee+into+segfaults+(sometimes)+🤯;Trying+to+make+sense+of+malloc+and+life+🧠;Always+debugging...+even+my+thoughts+🐞;Let's+build+cool+stuff+together!+🔧" />
 </p>
 
 [![LastLine](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)]()
