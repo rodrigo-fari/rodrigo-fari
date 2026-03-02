@@ -31,44 +31,46 @@ Currently exploring the depths of **C/C++**, mastering **memory management**, an
     <td align="center" width="25%"><strong>Backend/DevOps</strong></td>
     <td align="center" width="25%"><strong>Tools</strong></td>
   </tr>
-  <tr>
-    <td align="top">
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    </td>
-    <td align="top">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    </td>
-    <td align="top">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    </td>
-    <td align="top">
-      <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /><br>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    </td>
-  </tr>
+    <tr align="left">
+        <td align="top">
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        </td>
+        <td align="top">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        </td>
+        <td align="top">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        </td>
+        <td align="top">
+        <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /><br>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+        </td>
+    </tr>
 </table>
 </div>    
-
----
-
-### GitHub Stats
 
 
 ---
 
 ### Let's Connect
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/rodrigo-fari">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/rxd081/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://rodrigo-fari.github.io/B4F-Portifolio/">
+    <img src="https://img.shields.io/badge/Check my website :D-color=4fa69a&?style=for-the-badge" />
+  </a>
 </div>
+
+
+
