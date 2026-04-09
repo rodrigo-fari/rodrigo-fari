@@ -66,8 +66,7 @@ Currently exploring the depths of **C/C++**, mastering **memory management**, an
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
             <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" /><br>
             <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
-            <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /><br>
-        <img src="" /><br>
+            <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/><br>
         </td>
         <td align="center" id="Others">
             <img src="https://img.shields.io/badge/VS%20Code-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/><br>
