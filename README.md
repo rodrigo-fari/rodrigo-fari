@@ -28,8 +28,8 @@ Currently exploring the depths of **C/C++**, mastering **memory management**, an
 | Project | Description | Programming Lenguage / Frameworks |
 |--------|----------|------------|
 | [Minishell](https://github.com/rodrigo-fari/42-minishell) | Unix shell with command parsing, pipes, redirections, environment variables, and builtins | C
-| [C++ Modules 00-09](https://github.com/rodrigo-fari/42-CPP_Modules_00-09) | Object-oriented programming, memory management, inheritance, polymorphism, templates, containers, and exceptions in C++98 | C++ 98
-| [IRC](https://github.com/rodrigo-fari/42-IRC) | IRC server compliant with RFC 1459, supporting multiple clients, channels, operators, and private messages | C++ 98
+| [C++ Modules 00-09](https://github.com/rodrigo-fari/42-CPP_Modules_00-09) | Object-oriented programming, memory management, inheritance, polymorphism, templates, containers, and exceptions in C++ 98 | C++
+| [IRC](https://github.com/rodrigo-fari/42-IRC) | IRC server compliant with RFC 1459, supporting multiple clients, channels, operators, and private messages | C++
 | [Philosofers](https://github.com/rodrigo-fari/42-philosophers) | Concurrency problem solved using threads and mutexes to prevent data races and deadlocks | C
 | [Inception](https://github.com/rodrigo-fari/42-Inception) | Containerized web infrastructure with Docker Compose: Nginx reverse proxy, MariaDB, WordPress, and orchestration scripts | Docker, NginX, MariaDB, WordPress, ShellScript
 
@@ -96,8 +96,6 @@ Currently exploring the depths of **C/C++**, mastering **memory management**, an
   <a href="https://www.linkedin.com/in/rodrigo-fari" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <br>
-    <p>rodrigofal44@gmail.com</p>
 </div>
 
 ---
