@@ -25,7 +25,7 @@ Currently exploring the depths of **C/C++**, mastering **memory management**, an
 
 ### Main Projects
 
-| Project | Description | Programming Lenguage / Frameworks |
+| Project | Description | Programming Language / Frameworks |
 |--------|----------|------------|
 | [Minishell](https://github.com/rodrigo-fari/42-minishell) | Unix shell with command parsing, pipes, redirections, environment variables, and builtins | C
 | [C++ Modules 00-09](https://github.com/rodrigo-fari/42-CPP_Modules_00-09) | Object-oriented programming, memory management, inheritance, polymorphism, templates, containers, and exceptions in C++ 98 | C++
