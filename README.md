@@ -1,11 +1,11 @@
 </div>
 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=4fa69a&height=300&section=header&text=Rodrigo%20Faria&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Junior%20Software%20Engineer%20and%20student%20at%2042%20Porto.&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=4fa69a&height=300&section=header&text=Rodrigo%20Faria&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20and%20student%20at%2042%20Porto.&descAlignY=51&descAlign=62"/>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Overview&message=RODRIGO-FARI&color=4fa69a&style=for-the-badge&logo=GitHub" alt="GitHub Overview" width="250px"/>
-  <img src="https://komarev.com/ghpvc/?username=rodrigo-fari&color=4fa69a&style=flat-square" width="169px"/>
+  <img src="https://komarev.com/ghpvc/?username=rodrigo-fari&color=4fa69a&style=flat-square" width="183px"/>
 </p>
 </div>
 <div align="center">
@@ -14,10 +14,7 @@
 
 ### About Me
 
-I am a **Junior Software Engineering and student at 42 Porto**, focused on low-level programming and systems efficiency. My journey is driven by solving complex problems and building high-performance solutions from the ground up.
-
-Currently exploring the depths of **C/C++**, mastering **memory management**, and orchestrating environments with **Docker**.
-<br>I value clean code, constant learning, and projects that challenge my logic.
+I am a **Software Developer and student at 42 Porto**, focused on low-level programming and systems efficiency. My journey is driven by solving complex problems and building high-performance solutions from the ground up.
 
 </div>
 
