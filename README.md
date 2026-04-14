@@ -28,7 +28,7 @@ I am a **Software Developer and student at 42 Porto**, focused on low-level prog
 | [C++ Modules 00-09](https://github.com/rodrigo-fari/42-CPP_Modules_00-09) | Object-oriented programming, memory management, inheritance, polymorphism, templates, containers, and exceptions in C++ 98 | C++
 | [IRC](https://github.com/rodrigo-fari/42-IRC) | IRC server compliant with RFC 1459, supporting multiple clients, channels, operators, and private messages | C++
 | [Philosofers](https://github.com/rodrigo-fari/42-philosophers) | Concurrency problem solved using threads and mutexes to prevent data races and deadlocks | C
-| [Inception](https://github.com/rodrigo-fari/42-Inception) | Containerized web infrastructure with Docker Compose: Nginx reverse proxy, MariaDB, WordPress, and orchestration scripts | Docker, NginX, MariaDB, WordPress, ShellScript
+| [Inception]() | Containerized web infrastructure with Docker Compose: Nginx reverse proxy, MariaDB, WordPress, and orchestration scripts | Docker, NginX, MariaDB, WordPress, ShellScript
 
 ---
 
