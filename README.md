@@ -1,7 +1,7 @@
 </div>
 
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=4fa69a&height=300&section=header&text=Rodrigo%20Faria&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20and%20student%20at%2042%20Porto.&descAlignY=51&descAlign=62"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=4fa69a&height=300&section=header&text=Rodrigo%20Faria&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20at%2042%20Porto.&descAlignY=51&descAlign=62"/>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Overview&message=RODRIGO-FARI&color=4fa69a&style=for-the-badge&logo=GitHub" alt="GitHub Overview" width="250px"/>
